@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\veritürü2\veritürü2\bin\Debug\veritürü2.exe.config
+C:\Users\User\source\repos\veritürü2\veritürü2\bin\Debug\veritürü2.exe
+C:\Users\User\source\repos\veritürü2\veritürü2\bin\Debug\veritürü2.pdb
+C:\Users\User\source\repos\veritürü2\veritürü2\obj\Debug\veritürü2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\veritürü2\veritürü2\obj\Debug\veritürü2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\veritürü2\veritürü2\obj\Debug\veritürü2.lblSonuc2.resources
+C:\Users\User\source\repos\veritürü2\veritürü2\obj\Debug\veritürü2.Properties.Resources.resources
+C:\Users\User\source\repos\veritürü2\veritürü2\obj\Debug\veritürü2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\veritürü2\veritürü2\obj\Debug\veritürü2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\veritürü2\veritürü2\obj\Debug\veritürü2.exe
+C:\Users\User\source\repos\veritürü2\veritürü2\obj\Debug\veritürü2.pdb
